@@ -1,28 +1,22 @@
-# Dimensão Eletrônica ⚡
+# 🌐 Dimensão Eletrônica
 
-Site moderno para exibição de produtos tecnológicos, com filtros, busca inteligente e animações.
+Bem-vindo ao projeto **Dimensão Eletrônica**, um catálogo moderno de produtos tecnológicos com animações, filtros, busca instantânea e design responsivo.
 
-## 🌐 Acesso ao Projeto
+---
 
-[🔗 Abrir Projeto no GitHub Pages](https://SEU_USUARIO.github.io/dimensao-eletronica/)
+## 🚀 Acesse o Projeto
 
-## 👨‍💻 Contato
+Clique no link abaixo para abrir o site funcionando diretamente no GitHub Pages:
 
-- WhatsApp: [Clique aqui](https://wa.me/5588921507103)  
-- LinkedIn: [Clique aqui](https://www.linkedin.com/feed/)
+👉 **https://devsravenacris-art.github.io/imers-odev/**
 
-## 🚀 Funcionalidades
+Se o link não abrir, verifique se:
+- O nome do repositório é **exatamente**: `imers-odev`
+- O arquivo principal é `index.html`
+- Você ativou o GitHub Pages em:  
+  **Settings → Pages → Deploy from branch → main / root**
 
-- Filtros por categoria de produto  
-- Busca inteligente ao digitar  
-- Animações ao rolar a página (Scroll Reveal)  
-- Efeito Glassmorphism nos cards  
-- Responsivo para desktop e mobile  
-- Link direto para abrir o projeto online  
+---
 
-## 🛠 Tecnologias
+## 📁 Estrutura de Pastas
 
-- HTML5  
-- CSS3 / Glassmorphism  
-- JavaScript (Vanilla)  
-- Responsividade Mobile-first
