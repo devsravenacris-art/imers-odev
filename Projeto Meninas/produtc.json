@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "name": "iPhone 15 Pro Max",
+            "category": "smartphone",
+            "img": "src/iphone-15-pro-max.png",
+            "desc": "O melhor da Apple com chip A17 Pro e câmeras poderosas.",
+            "link": "https://support.apple.com/pt-br/111828"
+        },
+        {
+            "name": "Dell XPS 15",
+            "category": "notebook",
+            "img": "src/dell-xps-15-9560main.webp",
+            "desc": "Performance extrema e design premium.",
+            "link": "https://recommerceit.co.uk/cdn/shop/files/dell-xps-15-9560main.jpg"
+        },
+        {
+            "name": "iPad Air M1",
+            "category": "tablet",
+            "img": "src/ipad-air-202203-gallery-1-1260x746.jpeg",
+            "desc": "Poder e portabilidade com chip M1.",
+            "link": "https://macmagazine.com.br/wp-content/uploads/2022/03/ipad-air"
+        },
+        {
+            "name": "Carregador Turbo 30W",
+            "category": "carregador",
+            "img": "src/carregador-turbo-30w-ubs-c-motorola.png",
+            "desc": "Carregamento rápido para qualquer USB-C.",
+            "link": "https://empresas.motorola.com.br"
+        },
+        {
+            "name": "PlayStation 5",
+            "category": "videogame",
+            "img": "src/PlayStation-5-Pro-confira-todos-os-detalhes-sobre-o-novo-console-da-Sony.webp",
+            "desc": "O console mais avançado da geração.",
+            "link": "https://www.playstation.com/"
+        },
+        {
+            "name": "Teclado Mecânico RGB",
+            "category": "teclado",
+            "img": "src/img_67e2ff39205c5_1742929721.webp",
+            "desc": "Switches precisos e iluminação gamer.",
+            "link": "https://www.mirao.com.br"
+        },
+        {
+            "name": "Mouse Gamer",
+            "category": "mouse",
+            "img": "src/61sLuO6LiAL._AC_SY300_SX300_QL70_ML2_.jpg",
+            "desc": "Sensor preciso e desempenho profissional.",
+            "link": "https://www.amazon.com.br/"
+        },
+        {
+            "name": "Mouse Pad XL",
+            "category": "mousepad",
+            "img": "src/61lZtE1vPKL._AC_SX679_.jpg",
+            "desc": "Superfície premium e antiderrapante.",
+            "link": "https://www.amazon.com.br/"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:Poppins,sans-serif;}
+body{background:#0c0f16;color:#e5e5e5;}
+a{text-decoration:none;color:inherit;}
+
+.main-header{background:#11131a;padding:20px;border-bottom:1px solid #1b1f27;position:sticky;top:0;}
+nav{display:flex;justify-content:space-between;align-items:center;}
+.logo{color:#00eaff;font-size:24px;}
+.logo span{color:#8b4bff;}
+nav ul{display:flex;gap:20px;}
+nav a{color:#ccc;transition:.3s;}
+nav a:hover{color:#00eaff;}
+
+.hero{text-align:center;padding:70px 20px;}
+.hero h2{font-size:40px;color:#00eaff;text-shadow:0 0 15px #00eaff;}
+.hero p{color:#bbb;margin-top:10px;}
+.btn-neon{display:inline-block;margin:20px auto;padding:12px 25px;color:#00eaff;border:2px solid #00eaff;border-radius:10px;text-shadow:0 0 10px #00eaff;transition:.3s;}
+.btn-neon:hover{color:#000;background:#00eaff;text-shadow:0 0 15px #00eaff;}
+
+.search-box{margin-top:25px;display:flex;justify-content:center;gap:10px;}
+.search-box input{width:350px;padding:12px;background:#161a23;border:1px solid #212635;color:white;}
+.search-box button{padding:12px 18px;background:#00eaff;border:none;cursor:pointer;color:black;font-weight:700;}
+
+.filter-buttons{margin-top:25px;display:flex;justify-content:center;gap:10px;flex-wrap:wrap;}
+.filter-btn{padding:8px 16px;border:1px solid #00eaff;background:transparent;color:#00eaff;cursor:pointer;transition:.3s;}
+.filter-btn.active,.filter-btn:hover{background:#00eaff;color:#000;}
+
+.products-grid{padding:40px;display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:25px;}
+.card-link{text-decoration:none;}
+.product-card{background:#131621;padding:15px;border-radius:10px;border:1px solid #1f2533;transition:.3s;}
+.product-card:hover{transform:scale(1.03);box-shadow:0 0 18px #00eaff80;}
+.product-card img{width:100%;border-radius:10px;margin-bottom:10px;}
+.product-card h3{color:#00eaff;}
+
+.scroll{opacity:0;transform:translateY(40px);transition:.7s;}
+.scroll.show{opacity:1;transform:translateY(0);}
+
+footer{padding:30px;background:#11131a;text-align:center;}
+.footer-links{margin-top:10px;display:flex;justify-content:center;gap:15px;}
